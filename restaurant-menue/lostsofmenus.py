@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-from database_setup import Restaurant, Base, MenuItem
+from .database_setup import Restaurant, Base, MenuItem
 
 
 engine = create_engine('sqlite:///restaurantmenu.db')
@@ -343,4 +343,4 @@ session.add(menuItem1)
 session.commit()
 
 
-print "added menu items!"
+print("added menu items!")
