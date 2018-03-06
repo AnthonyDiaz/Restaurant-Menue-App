@@ -1,1 +1,0 @@
-{"virtualbox":{"/opt":{"guestpath":"/opt","hostpath":"/Users/tdiaz/Desktop/MyProjects/Restaurant-Menue-App","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tdiaz/Desktop/MyProjects/Restaurant-Menue-App/restaurant-menue-vm/vm/vagrant","disabled":false,"__vagrantfile":true}}}
